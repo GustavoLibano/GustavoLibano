@@ -28,5 +28,5 @@ Continuar evoluindo profissionalmente nas áreas de tecnologia e logística, apl
 
 ##  Conecte-se comigo
 
-* [LinkedIn](https://www.linkedin.com/in/gustavo-leandro-libano)
+* [[LinkedIn]](https://www.linkedin.com/in/gustavo-leandro-libano-47459033b/)
 * [GitHub](https://github.com/GustavoLibano)
