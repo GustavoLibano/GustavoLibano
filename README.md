@@ -1,4 +1,4 @@
-# Gustavo  Apaixonado por Tecnologia e Logística
+# Gustavo Leandro Libano
 
 Olá!  Sou um jovem entusiasta de tecnologia e logística, sempre em busca de novos desafios e aprendizado. Acredito que a combinação entre inovação tecnológica e processos eficientes pode transformar o mundo! 
 
