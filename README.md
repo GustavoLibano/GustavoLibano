@@ -1,15 +1,16 @@
 # Gustavo  Apaixonado por Tecnologia e Logística
 
-Olá! Sou um jovem entusiasta de tecnologia e logística, sempre em busca de novos desafios e aprendizado. Acredito que a combinação entre inovação tecnológica e processos eficientes pode transformar o mundo!
+Olá!  Sou um jovem entusiasta de tecnologia e logística, sempre em busca de novos desafios e aprendizado. Acredito que a combinação entre inovação tecnológica e processos eficientes pode transformar o mundo! 
 
-##  Habilidades
+## ️ Habilidades
 
-* Linguagens de Programação: Java, Python, Kotlin
-* Análise de Dados: Excel, Power BI
-* Sistemas: SAP, PlusoftOmni (DISC)
-* Logística: Otimização de processos, planejamento de rotas, gestão de indicadores (KPIs)
-* Negociação: Modelos B2C e B2B
-* Resolução de Problemas: Metodologias e ferramentas analíticas
+* **Linguagens de Programação:** Java ☕, Python , Kotlin 
+* **Análise de Dados:** Excel , Power BI 
+* **Sistemas:** SAP ⚙️, PlusoftOmni (DISC) 
+* **Logística:** Otimização de processos , planejamento de rotas ️, gestão de indicadores (KPIs) 
+* **Negociação:** Modelos B2C e B2B 
+* **Resolução de Problemas:** Metodologias e ferramentas analíticas 
+* **Programação:** Conhecimentos básicos e avançados em diversas linguagens 
 
 ##  Experiência
 
@@ -19,13 +20,13 @@ Olá! Sou um jovem entusiasta de tecnologia e logística, sempre em busca de nov
 * Experiência em negociações nos modelos B2C e B2B, com foco em soluções estratégicas.
 * Transformação de dados em insights estratégicos e operacionais através de Excel e Power BI.
 * Registro, atualização e fechamento de ocorrências no sistema PlusoftOmni (DISC).
-* Programação com programas mais básicos e avançados
+* Desenvolvimento de programas básicos e avançados em diversas linguagens.
 
 ##  Objetivos
 
-Continuar evoluindo profissionalmente nas áreas de tecnologia e logística, aplicando soluções inovadoras que unam eficiência operacional e inteligência tecnológica.
+Continuar evoluindo profissionalmente nas áreas de tecnologia e logística, aplicando soluções inovadoras que unam eficiência operacional e inteligência tecnológica. 
 
 ##  Conecte-se comigo
 
-* [[LinkedIn]](https://www.linkedin.com/in/gustavo-leandro-libano)
-* [[GitHub]](https://github.com/GustavoLibano)
+* [LinkedIn](https://www.linkedin.com/in/gustavo-leandro-libano)
+* [GitHub](https://github.com/GustavoLibano)
