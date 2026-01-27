@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Gustavo!  
 
-🎓 Estudante de **Sistemas de Informação** com experiência em **desenvolvimento backend**, **análise de dados** e **automação de processos**. Minha jornada une vivência em **logística** com uma base sólida em **programação, bancos de dados e Business Intelligence (BI)**.  
+🎓 Estudante de **ADS** com experiência em **desenvolvimento backend**, **análise de dados** e **automação de processos**. Minha jornada une vivência em **logística** com uma base sólida em **programação, bancos de dados e Business Intelligence (BI)**.  
 
 💻 Tecnologias que utilizo no dia a dia:  
 - **Linguagens:** Python 🐍 | Java ☕ | JavaScript (Node.js) ⚡  
