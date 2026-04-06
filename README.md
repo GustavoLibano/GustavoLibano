@@ -10,4 +10,4 @@
 🚀 Busco oportunidades como **Analista de Sistemas**, **Desenvolvedor Backend** ou **Analista de Dados**, sempre com foco em transformar dados em **soluções inteligentes e escaláveis**.  
 
 ---
-🔗 [LinkedIn](https://linkedin.com/in/gustavolibano) | [GitHub](https://github.com/gustavolibano) | ✉️ gustavolleandro@outlook.com
+🔗 [LinkedIn](https://linkedin.com/in/gustavolibano) | ✉️ gustavolleandro@outlook.com
