@@ -1,68 +1,79 @@
-# 👋 Hi, I'm Gustavo!
+### 🇧🇷 [Português](#-sobre-mim) · 🇺🇸 [English](#-about-me)
 
 <div align="center">
 
-**Developer | Data Analyst | Process Automation Enthusiast**
+# 👋 Oi, eu sou o Gustavo!
+### Desenvolvedor & Consultor em Automação Web/IA para pequenos negócios
 
 </div>
 
 ---
 
-## 🎓 About Me
+## 🇧🇷 Sobre mim
 
-I'm a student of **Analysis and Systems Development (ADS)** passionate about solving complex problems through code and data. My journey combines practical experience in **logistics** with technical expertise in **backend development** and **data analysis**.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) e **consultor**, minha consultoria de desenvolvimento web e automação com IA. Ajudo pequenos e grandes negócios — clínicas, academias, oficinas, barbearias, escritórios de advocacia/contabilidade, corretores de imóveis e prestadores de serviço — a vender e atender melhor usando sites profissionais, agentes de IA e automação de CRM/vendas.
 
-I'm always seeking challenging opportunities where I can:
-- 🔧 Develop robust and scalable backend solutions
-- 📊 Transform data into actionable insights
-- ⚡ Automate processes and boost efficiency
-- 🧠 Learn and grow continuously
+Trabalho de ponta a ponta: prospecção, proposta, desenvolvimento e entrega de código pronto para produção — hoje com foco em expandir do Brasil para mercados internacionais (EUA, Nova Zelândia, Austrália e outros).
 
----
+### 🚀 O que eu construo
 
-## 💼 Professional Experience
+- **Sites profissionais** — um por cliente, com identidade visual própria
+- **Agentes de IA no WhatsApp** — atendimento, agendamento e qualificação de leads
+- **Bots de agendamento** — como o sistema completo em Node.js (Twilio + Claude API + Whisper) para barbearias
+- **Automação de CRM e vendas** — incluindo uma plataforma SaaS para revendas de veículos (CRM + estoque + agente de vendas via WhatsApp)
 
-### IT Intern - Villares Metals (Voestalpine Group)
-Currently working as an **IT Intern** at Villares Metals, a global leader in the metallurgical industry (part of Voestalpine). Gaining hands-on experience with enterprise systems, infrastructure support, and technical solutions in a large-scale manufacturing environment.
+### 🛠️ Stack
 
----
+**Linguagens:** Python · Java · JavaScript/Node.js · SQL
+**Web & Backend:** FastAPI · Next.js · Tailwind CSS
+**Dados:** PostgreSQL · SQLite · Power BI · Excel avançado (VBA, tabelas dinâmicas, macros)
+**IA & Automação:** Anthropic Claude API · OpenAI Whisper · Twilio (WhatsApp) · WhatsApp Cloud API
+**Plataformas & Infra:** SAP · Power Apps · Vercel · Netlify · GitHub Pages · Cloudflare Pages
+**Ferramentas:** Git/GitHub · Apify (prospecção de leads)
 
-## 💻 Tech Stack
+### 📌 Projetos em destaque
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-
-### Databases
-- SQL Server
-- MySQL
-- Oracle
-
-### Tools & Platforms
-- **Power BI** - Data Analysis & Visualization 📊
-- **Power Apps** - Low-Code Application Development 🚀
-- **Advanced Excel** - VBA, Pivot Tables, Macros
-- **SAP** - Enterprise Processes
-- **Git/GitHub** - Version Control
+Veja a seção de repositórios fixados abaixo — de bots de logística no WhatsApp a sistemas de gestão em Java, além dos projetos de consultoria (sites de demonstração, bots de agendamento e automação de CRM).
 
 ---
 
-## 🔗 Let's Connect
+## 🇺🇸 About Me
+
+Systems Analysis & Development (ADS) student and **consultant**, my web development and AI automation consultancy. I help small and big businesses — clinics, gyms, auto shops, barbershops, law/accounting firms, real estate agents, and service providers — sell and serve better through professional websites, AI agents, and CRM/sales automation.
+
+I work end to end: prospecting, pitching, building, and shipping production-ready code — currently scaling from Brazil into international markets (US, New Zealand, Australia, and beyond).
+
+### 🚀 What I build
+
+- **Professional websites** — one per client, each with its own visual identity
+- **WhatsApp AI agents** — customer service, scheduling, and lead qualification
+- **Scheduling bots** — like a full Node.js system (Twilio + Claude API + Whisper) built for barbershops
+- **CRM & sales automation** — including a SaaS platform for car dealerships (CRM + inventory + WhatsApp sales agent)
+
+### 🛠️ Tech Stack
+
+**Languages:** Python · Java · JavaScript/Node.js · SQL
+**Web & Backend:** FastAPI · Next.js · Tailwind CSS
+**Data:** PostgreSQL · SQLite · Power BI · Advanced Excel (VBA, pivot tables, macros)
+**AI & Automation:** Anthropic Claude API · OpenAI Whisper · Twilio (WhatsApp) · WhatsApp Cloud API
+**Platforms & Infra:** SAP · Power Apps · Vercel · Netlify · GitHub Pages · Cloudflare Pages
+**Tools:** Git/GitHub · Apify (lead sourcing)
+
+### 📌 Featured Projects
+
+Check the pinned repositories below — from WhatsApp logistics bots to Java management systems, plus Consultor's own builds (demo sites, scheduling bots, and CRM automation).
+
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolibano)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gustavolleandro@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoLibano)
+### 🔗 Let's connect · Vamos nos conectar
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolibano)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolleandro@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoLibano)
 
----
-
-<div align="center">
-
-*"Data without action is just numbers. Code without purpose is just syntax. Together, we create transformation."*
+*"Quando abro a porta de uma nova descoberta já encontro Deus lá dentro."*
+*"When I open the door to a new discovery, I already find God inside."*
 
 </div>
