@@ -1,79 +1,56 @@
-### 🇧🇷 [Português](#-sobre-mim) · 🇺🇸 [English](#-about-me)
+# Gustavo Leandro Libano
 
-<div align="center">
+### Engenharia de Software | Automação Industrial | Integração de Sistemas
 
-# 👋 Oi, eu sou o Gustavo!
-### Desenvolvedor & Consultor em Automação Web/IA para pequenos negócios
+Fundador da **vallo**, consultoria de engenharia de software focada em automação de processos industriais, especialmente PCP e operações corporativas.
 
-</div>
+Desenvolvo soluções para eliminar atividades manuais, integrar sistemas e transformar informações operacionais em processos mais confiáveis e eficientes.
 
----
+### Resultados da minha trajetória
 
-## 🇧🇷 Sobre mim
+- **Automação industrial:** aproximadamente 10 horas diárias de trabalho manual eliminadas, somando as atividades de dois profissionais.
+- **Conciliação para ERP:** redução do tempo de ciclo de 72 horas para menos de 4 horas.
+- **Conecta Distribuição:** desenvolvimento de solução funcional em Python, Flask e WhatsApp API, utilizada inicialmente em operação real por um dia.
 
-Estudante de Análise e Desenvolvimento de Sistemas (ADS) e **consultor**, minha consultoria de desenvolvimento web e automação com IA. Ajudo pequenos e grandes negócios — clínicas, academias, oficinas, barbearias, escritórios de advocacia/contabilidade, corretores de imóveis e prestadores de serviço — a vender e atender melhor usando sites profissionais, agentes de IA e automação de CRM/vendas.
+Os projetos corporativos são apresentados de forma anonimizada. Código, dados e informações confidenciais permanecem reservados.
 
-Trabalho de ponta a ponta: prospecção, proposta, desenvolvimento e entrega de código pronto para produção — hoje com foco em expandir do Brasil para mercados internacionais (EUA, Nova Zelândia, Austrália e outros).
+### Áreas de atuação
 
-### 🚀 O que eu construo
+- Automação de PCP e processos industriais
+- Engenharia de dados e conciliação de informações
+- Integração de ERPs e sistemas corporativos
+- Desenvolvimento backend e aplicações web
+- Automação de operações logísticas
 
-- **Sites profissionais** — um por cliente, com identidade visual própria
-- **Agentes de IA no WhatsApp** — atendimento, agendamento e qualificação de leads
-- **Bots de agendamento** — como o sistema completo em Node.js (Twilio + Claude API + Whisper) para barbearias
-- **Automação de CRM e vendas** — incluindo uma plataforma SaaS para revendas de veículos (CRM + estoque + agente de vendas via WhatsApp)
+### Tecnologias
 
-### 🛠️ Stack
+**Linguagens:** Python, Java, JavaScript e SQL
 
-**Linguagens:** Python · Java · JavaScript/Node.js · SQL
-**Web & Backend:** FastAPI · Next.js · Tailwind CSS
-**Dados:** PostgreSQL · SQLite · Power BI · Excel avançado (VBA, tabelas dinâmicas, macros)
-**IA & Automação:** Anthropic Claude API · OpenAI Whisper · Twilio (WhatsApp) · WhatsApp Cloud API
-**Plataformas & Infra:** SAP · Power Apps · Vercel · Netlify · GitHub Pages · Cloudflare Pages
-**Ferramentas:** Git/GitHub · Apify (prospecção de leads)
+**Backend e dados:** Flask, FastAPI, Node.js, PostgreSQL e SQLite
 
-### 📌 Projetos em destaque
+**Automação:** APIs, Excel, Power BI e integração de sistemas corporativos
 
-Veja a seção de repositórios fixados abaixo — de bots de logística no WhatsApp a sistemas de gestão em Java, além dos projetos de consultoria (sites de demonstração, bots de agendamento e automação de CRM).
+### Projetos
 
----
+**Conecta Distribuição**  
+Sistema de consulta de informações logísticas pelo WhatsApp. Solução funcional com utilização inicial em ambiente operacional.
 
-## 🇺🇸 About Me
+**Sistema Logístico**  
+Aplicação Java para gerenciamento de entregas e acompanhamento de status, desenvolvida como projeto de aprendizado.
 
-Systems Analysis & Development (ADS) student and **consultant**, my web development and AI automation consultancy. I help small and big businesses — clinics, gyms, auto shops, barbershops, law/accounting firms, real estate agents, and service providers — sell and serve better through professional websites, AI agents, and CRM/sales automation.
+**Outras soluções**  
+Experiência em sistemas de conciliação documental, aplicações operacionais offline, automações corporativas e plataformas de gestão.
 
-I work end to end: prospecting, pitching, building, and shipping production-ready code — currently scaling from Brazil into international markets (US, New Zealand, Australia, and beyond).
+### English
 
-### 🚀 What I build
+I'm a software developer and founder of vallo, focused on industrial process automation, data engineering and enterprise systems integration.
 
-- **Professional websites** — one per client, each with its own visual identity
-- **WhatsApp AI agents** — customer service, scheduling, and lead qualification
-- **Scheduling bots** — like a full Node.js system (Twilio + Claude API + Whisper) built for barbershops
-- **CRM & sales automation** — including a SaaS platform for car dealerships (CRM + inventory + WhatsApp sales agent)
+My experience includes measurable improvements in operational workflows, financial reconciliation and logistics applications.
 
-### 🛠️ Tech Stack
+I build software that reduces repetitive work and improves operational reliability.
 
-**Languages:** Python · Java · JavaScript/Node.js · SQL
-**Web & Backend:** FastAPI · Next.js · Tailwind CSS
-**Data:** PostgreSQL · SQLite · Power BI · Advanced Excel (VBA, pivot tables, macros)
-**AI & Automation:** Anthropic Claude API · OpenAI Whisper · Twilio (WhatsApp) · WhatsApp Cloud API
-**Platforms & Infra:** SAP · Power Apps · Vercel · Netlify · GitHub Pages · Cloudflare Pages
-**Tools:** Git/GitHub · Apify (lead sourcing)
+### Contato
 
-### 📌 Featured Projects
+[LinkedIn](https://www.linkedin.com/in/gustavolibano) | [vallo](https://vallosite.netlify.app)
 
-Check the pinned repositories below — from WhatsApp logistics bots to Java management systems, plus Consultor's own builds (demo sites, scheduling bots, and CRM automation).
-
----
-
-<div align="center">
-
-### 🔗 Let's connect · Vamos nos conectar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolibano)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavolleandro@outlook.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GustavoLibano)
-
-*"Quando abro a porta de uma nova descoberta já encontro Deus lá dentro."*
-*"When I open the door to a new discovery, I already find God inside."*
-
-</div>
+**Tecnologia que se paga. A conta vem primeiro.**
